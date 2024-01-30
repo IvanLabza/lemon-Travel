@@ -3,6 +3,8 @@
   flex-direction: column;
   align-items: center;
   overflow-x: hidden;
+  max-width: 374px;
+  margin: 0 auto;
 
   button {
     position: absolute;
@@ -207,8 +209,8 @@
     font-family: Roboto;
     font-size: 18px;
     font-weight: 400;
-    img{
-        width: 22px;
+    img {
+      width: 22px;
     }
   }
 
